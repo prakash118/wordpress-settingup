@@ -32,7 +32,13 @@ The final step is to import the latest DB dump with these three commands:
 
 `vagrant ssh`
 
+###MYSQL Import
+
 `mysql -u dbuser -p dbname < /vagrant/bin/db/<filename>.sql`
+
+###MYSQL Export
+
+`mysqldump -u dbuser -p dbname > /vagrant/bin/db/<filename>.sql`
 
 ##GRUNT
 
