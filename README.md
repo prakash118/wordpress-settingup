@@ -40,6 +40,8 @@ The final step is to import the latest DB dump with these three commands:
 
 `mysqldump -u dbuser -p dbname > /vagrant/bin/db/<filename>.sql`
 
+    Note: All the database dumps (exports) should be stored in `./bin/database/` directory.
+
 ##GRUNT
 
 - Type `npm install grunt-cli -g`
@@ -47,12 +49,5 @@ The final step is to import the latest DB dump with these three commands:
 - Type `npm install`
 - Type `grunt`
 
-###Note: All the database dumps (exports) should be stored in `./bin/database/` directory.
 Once the set up process is complete. You can access the site URL via http://wordpress.dev
 May Require to run `sudo npm install`
-
-====================================================================================
-
-#Development
-------------------------------------------------------------------------------------
-The project uses Git Flow, so make sure to initiate this with `git flow init`.
