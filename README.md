@@ -49,5 +49,6 @@ The final step is to import the latest DB dump with these three commands:
 - Type `npm install`
 - Type `grunt`
 
+    May Require to run `sudo npm install`
+
 Once the set up process is complete. You can access the site URL via http://wordpress.dev
-May Require to run `sudo npm install`
