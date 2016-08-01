@@ -10,7 +10,7 @@ Before we begin there are some things you will need on your machine.
 ------------------------------------------------------------------------------------
 - [VirtualBox 5.*](https://www.virtualbox.org/wiki/Downloads) (Latest Version)
 - [Vagrant 1.8.*](https://www.vagrantup.com/downloads.html) (Latest Version)
-- [Node 6.*) or `brew install node` (Latest Version)
+- [Node 6.*](https://nodejs.org/en/) or `brew install node` (Latest Version)
 
     Note: Using `brew` requires to install [Homebrew](http://brew.sh/)
 
