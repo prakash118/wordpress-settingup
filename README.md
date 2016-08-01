@@ -2,6 +2,13 @@
 
 Welcome to the development environment for the wordpress.dev site.
 
+![alt text](https://s.w.org/style/images/wp-header-logo-2x.png?1, "Wordpress")
+![alt text](http://gruntjs.com/img/grunt-logo.svg, "Grunt")
+![alt text](, "")
+![alt text](, "")
+![alt text](, "")
+![alt text](, "")
+
 Before we begin there are some things you will need on your machine.
 
 ====================================================================================
